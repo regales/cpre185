@@ -1,2 +1,4 @@
-# cpre185
-CPR E 185 course @iastate
+# CPRE185
+
+## About
+This repository contains code and materials related to CPR E 185 at Iowa State University taken during Spring 2024 with Prof. Maruf.
